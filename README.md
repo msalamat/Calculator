@@ -3,4 +3,4 @@ A great, super great calculator app for all iOS devices
 
 ## Demo
 
-![CalculatorDemo](demo/calc_gif.gif)
+![CalculatorDemo](demo/calc.gif)
